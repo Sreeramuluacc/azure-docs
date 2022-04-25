@@ -10,6 +10,10 @@ ms.author: normesta
 ms.reviewer: jamesbak
 ---
 
+## Storage Explorer in the Azure portal
+
+ACLs are supported.
+
 # Known issues with Azure Data Lake Storage Gen2
 
 This article describes limitations and known issues for accounts that have the hierarchical namespace feature enabled.
@@ -78,10 +82,6 @@ Use only the latest version of AzCopy ([AzCopy v10](../common/storage-use-azcopy
 Use only versions `1.6.0` or higher.
 
 <a id="explorer-in-portal"></a>
-
-## Storage Explorer in the Azure portal
-
-ACLs are not yet supported.
 
 <a id="third-party-apps"></a>
 
